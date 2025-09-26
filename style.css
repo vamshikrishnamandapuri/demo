@@ -1,11 +1,10 @@
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
-    background-color: #26A69A; /* Teal color for travel theme */
 }
 
 .bg-travel {
-    background-color: #26A69A; /* Consistent teal background */
+    background-color: #F5E8C7; /* Sandy beige for travel theme */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,10 +18,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero {
-    background-color: #26A69A; /* Teal background for hero */
+    background-color: #F5E8C7; /* Sandy beige background for hero */
     min-height: 60vh;
     padding-top: 80px; /* Fix overlapping */
-    color: #fff; /* Ensure text is readable */
+    color: #333; /* Dark text for readability */
 }
 
 .card {
